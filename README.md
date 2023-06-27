@@ -18,7 +18,7 @@ Implementation of first Deep Learning networks on the MNIST dataset.
 
 2. Convolutional Neural Networks
 
-Implementation and usage of CNN Networks on the CIFAR10 dataset.
+Implementation and usage of CNN on the CIFAR10 dataset.
 
 Usage of data augmentations.
 
@@ -29,7 +29,7 @@ Implementation of a GAN and a VAE to generate new MNIST digits.
 
 4. RNN
 
-Implementation of Recurrent Neural Networks to perform action classification.
+Implementation of RNN to perform action classification.
 
 5. NLP
 
