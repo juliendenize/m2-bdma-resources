@@ -2,11 +2,14 @@
 
 ## Introduction
 
-This repository contains practical session resources associated to the Machine Learning course that I taught in 2022. 
+This repository contains practical session resources associated to the Machine Learning course that I taught in 2022.
 
 Classes involved basics of Deep Learning for Computer Vision, Natural Language Processing and Generative Models.
 
 ## Resources
+
+The files containing the string `'student'` are the ones with blanks that students had to fill. The other files are the solutions.
+
 
 1. Basics of Deep Learning
 
